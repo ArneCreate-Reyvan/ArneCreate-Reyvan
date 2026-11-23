@@ -1,4 +1,4 @@
-<img src="assets/hero.svg" alt="[Your Name], computer engineering student at ITS" width="100%" />
+<img src="assets/hero.svg" alt="Reyvan Attarajwa Andhara, Computer Engineering student at ITS" width="100%" />
 
 <div align="center">
 
