@@ -1,49 +1,31 @@
-<div align="center">
+<img src="assets/banner.svg" alt="[Your Name]: Computer Engineering at ITS, vehicle electrification and embedded systems" width="100%" />
 
-<img src="assets/banner.svg" alt="Profile banner" width="100%" />
+[LinkedIn](https://www.linkedin.com/in/[your-linkedin]) · [Email](mailto:[your-email]) · [Repositories](https://github.com/[your-username]?tab=repositories)
 
-<br/>
+## About
 
-![Focus](https://img.shields.io/badge/Focus-Vehicle_Electrification-0077B6?style=flat-square)
-![Studying](https://img.shields.io/badge/Studying-Computer_Engineering_@_ITS-00B4D8?style=flat-square)
-![Mindset](https://img.shields.io/badge/Mindset-Design_·_Build_·_Test-023E8A?style=flat-square)
+I'm a computer engineering student at Institut Teknologi Sepuluh Nopember (ITS), working on vehicle electrification and embedded systems. I also work as a full-stack developer at Edental, where I've spent more than three years building PHP backends and web applications.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/[your-linkedin])
-[![GitHub](https://img.shields.io/badge/GitHub-Repositories-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/[your-username]?tab=repositories)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:[your-email])
+During an internship in the High Voltage division of Anargya ITS (Formula SAE), I designed a 400V battery pack from vehicle performance data, sized it against an 80kW inverter, and designed the schematic and PCB for its battery management system.
 
-</div>
+I'm aiming for a career in automotive or aviation electrical engineering, and I'm looking to join competition teams (Shell Eco-marathon, local energy-efficient car events) on the electrical side.
 
----
+## Focus
 
-## ⚡ About me
+- High-voltage battery pack design and inverter matching
+- Battery management system hardware
+- Embedded systems: sensor integration, control system fundamentals, ROS
+- Backend and web development with PHP and JavaScript
 
-I'm **[Your Name]**, a Computer Engineering student at **Institut Teknologi Sepuluh Nopember (ITS)** focused on vehicle electrification and embedded systems.
+## Projects
 
-I like working where software meets physical systems. Through the High Voltage division of a Formula SAE team, I designed a **400V battery pack** from vehicle performance data, sized it for an **80kW inverter**, and designed the **schematic and PCB of its battery management system**. Alongside that, I've worked for 3+ years as a full-stack developer.
+Both projects sit in the same powertrain chain, from energy storage to the data it produces.
 
-I'm aiming for a career in **automotive and aviation electrical engineering**.
-
----
-
-## 🛠️ Tech stack
-
-### Electrical & embedded
-<img src="https://img.shields.io/badge/-HV_Pack_Design-0077B6?style=for-the-badge" /> <img src="https://img.shields.io/badge/-BMS_Design-0077B6?style=for-the-badge" /> <img src="https://img.shields.io/badge/-Schematic_&_PCB-0077B6?style=for-the-badge" /> <img src="https://img.shields.io/badge/-Sensor_Integration-0077B6?style=for-the-badge" /> <img src="https://img.shields.io/badge/-Control_Systems-0077B6?style=for-the-badge" /> <img src="https://img.shields.io/badge/-ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" />
-
-### Software
-<img src="https://skillicons.dev/icons?i=php,laravel,js,nodejs,react,mysql&theme=dark" alt="software skills" />
-
-`PHP` · `Laravel` · `CodeIgniter 4` · `JavaScript` · `Node.js` · `React` · `MySQL`
-
-### Tools
-<img src="https://skillicons.dev/icons?i=git,github&theme=dark" alt="tools" />
-
-`[PCB tool, e.g. KiCad / Altium]` · `[simulation tool]` · `Git` · `GitHub`
-
----
-
-## 📂 Featured projects
+```mermaid
+flowchart LR
+    Pack["400V battery pack"] --> Inverter["80kW inverter"] --> Motor
+    Pack --> BMS["BMS (schematic + PCB)"] --> Data["Telemetry"]
+```
 
 <table>
   <tr>
@@ -52,42 +34,24 @@ I'm aiming for a career in **automotive and aviation electrical engineering**.
   </tr>
 </table>
 
-<details>
-<summary><b>⚡ HV Battery Pack Design: features & technical highlights</b></summary>
+<!-- Confirm with the team before linking design files publicly. -->
 
-- [Cell type and configuration, e.g. XsYp]
-- [Pack capacity and voltage range]
-- [How the pack was matched to the 80kW inverter: current limits, etc.]
-- [Safety considerations: fusing, isolation, precharge, if applicable]
+**HV Battery Pack Design**
+- Cell type and configuration: [to confirm]
+- Pack capacity and voltage range: [to confirm]
+- Inverter matching: [e.g. peak current check against pack limits, to confirm]
 - Status: [design only / simulated / prototyped / tested]
 
-</details>
-
-<details>
-<summary><b>🧠 BMS Hardware Design: features & technical highlights</b></summary>
-
-- [What it measures: cell voltage, temperature, current]
-- [Balancing method, if any]
-- [Communication, e.g. CAN]
-- [Tool used for schematic and PCB]
+**BMS Hardware Design**
+- Measurements: [cell voltage / temperature / current, to confirm]
+- Balancing and communication: [to confirm]
+- Tool used for schematic and PCB: [to confirm]
 - Status: [design only / fabricated / tested]
 
-</details>
+## Skills
 
-<sub>Design documentation only. Some files are withheld out of respect for team and sponsor confidentiality.</sub>
+**Electrical and embedded:** high-voltage pack design, BMS design, schematic and PCB design, sensor integration, control systems, ROS
 
----
+**Software:** PHP (Laravel, CodeIgniter 4), JavaScript, Node.js, React, MySQL
 
-## 📍 Right now
-
-- 💼 Full-stack developer at **Edental**
-- 🎓 Computer Engineering at **ITS**
-- 🏎️ Previously in the High Voltage division at **Anargya ITS** (Formula SAE)
-- 🎯 Looking to join competition engineering teams (Shell Eco-marathon, energy-efficient car events) on the electrical side
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/[your-linkedin])
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[your-email])
-
-</div>
+**Tools:** [PCB tool], [simulation tool], Git
