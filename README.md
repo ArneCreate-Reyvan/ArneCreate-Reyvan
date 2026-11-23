@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[About](#about) · [Experience and skills](#experience-and-skills) · [Projects](#projects) · [LinkedIn](https://www.linkedin.com/in/[your-linkedin]) · [Email](mailto:[your-email])
+[About](#about) · [Experience and skills](#experience-and-skills) · [Projects](#projects) · [GitHub activity](#github-activity) · [LinkedIn](https://www.linkedin.com/in/[your-linkedin]) · [Email](mailto:[your-email])
 
 </div>
 
@@ -33,12 +33,17 @@ Undergraduate, second year.
 ### Skills
 
 **Engineering software**
-`KiCad` `Proteus` `SolidWorks` `Fusion Electrical` `Fusion 360`
+
+<img src="assets/tools.svg" alt="KiCad, Proteus, SolidWorks, Fusion Electrical, Fusion 360" width="100%" />
 
 **Programming**
-`PHP` `JavaScript` `Node.js` `React` `Laravel` `CodeIgniter 4` `MySQL`
+
+<img src="https://skillicons.dev/icons?i=php,laravel,js,nodejs,react,mysql&theme=dark" alt="PHP, Laravel, JavaScript, Node.js, React, MySQL" />
+
+Also CodeIgniter 4.
 
 **Electrical and embedded**
+
 High-voltage pack design, BMS design, schematic and PCB design, sensor integration, control system fundamentals, ROS
 
 </td>
@@ -74,3 +79,17 @@ Designed the schematic and PCB for the pack's battery management system.
 To add once confirmed: cell configuration, pack capacity, BMS measurements,
 project status. Link the repos only after the team approves.
 -->
+
+<!--
+## Certifications
+
+Add one line per certificate, only ones you actually hold:
+
+- Certificate name, issuer, year. [Credential](link)
+-->
+
+## GitHub activity
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[your-username]&layout=compact&hide_border=true&bg_color=0B1220&title_color=4FE3FF&text_color=C9D1D9" alt="Most used languages on GitHub" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=[your-username]&bg_color=0B1220&color=4FE3FF&line=4FE3FF&point=FFFFFF&area=true&area_color=4FE3FF&hide_border=true" alt="Contribution graph" width="100%" />
