@@ -1,4 +1,4 @@
-<img src="assets/banner.svg" alt="[Your Name], computer engineering student at ITS" width="100%" />
+<img src="assets/hero.svg" alt="[Your Name], computer engineering student at ITS" width="100%" />
 
 [LinkedIn](https://www.linkedin.com/in/[your-linkedin]) · [Email](mailto:[your-email])
 
@@ -14,9 +14,13 @@ Both projects come from my internship in the High Voltage division of Anargya IT
 
 ### High-voltage battery pack
 
-Designed a 400V battery pack from vehicle performance data and sized it for an 80kW inverter.
+`400V` `80kW inverter`
+
+Designed the pack from vehicle performance data and sized it to match the inverter.
 
 ### Battery management system
+
+`Schematic` `PCB`
 
 Designed the schematic and PCB for the pack's battery management system.
 
