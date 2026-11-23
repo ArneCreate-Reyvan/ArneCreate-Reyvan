@@ -90,6 +90,6 @@ Add one line per certificate, only ones you actually hold:
 
 ## GitHub activity
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[your-username]&layout=compact&hide_border=true&bg_color=0B1220&title_color=4FE3FF&text_color=C9D1D9" alt="Most used languages on GitHub" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArneCreate-Reyvan&layout=compact&hide_border=true&bg_color=0B1220&title_color=4FE3FF&text_color=C9D1D9" alt="Most used languages on GitHub" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=[your-username]&bg_color=0B1220&color=4FE3FF&line=4FE3FF&point=FFFFFF&area=true&area_color=4FE3FF&hide_border=true" alt="Contribution graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArneCreate-Reyvan&bg_color=0B1220&color=4FE3FF&line=4FE3FF&point=FFFFFF&area=true&area_color=4FE3FF&hide_border=true" alt="Contribution graph" width="100%" />
