@@ -34,7 +34,7 @@ Undergraduate, second year.
 
 **Engineering software**
 
-<img src="assets/tools.svg" alt="KiCad, Proteus, SolidWorks, Fusion Electrical, Fusion 360" width="100%" />
+<img src="assets/tools-dark.svg" alt="KiCad, Proteus, SolidWorks, Fusion Electrical, Fusion 360" width="100%" />
 
 **Programming**
 
@@ -49,7 +49,7 @@ High-voltage pack design, BMS design, schematic and PCB design, sensor integrati
 </td>
 <td width="36%" valign="top">
 
-<img src="assets/circuit.png" alt="Line drawing of a microcontroller with circuit traces" width="100%" />
+<img src="assets/circuit-removebg.png" alt="Line drawing of a microcontroller with circuit traces" width="100%" />
 
 </td>
 </tr>
