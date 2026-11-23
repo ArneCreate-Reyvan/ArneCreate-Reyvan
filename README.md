@@ -34,7 +34,7 @@ Undergraduate, second year.
 
 **Engineering software**
 
-<img src="assets/tools-dark.svg" alt="KiCad, Proteus, SolidWorks, Fusion Electrical, Fusion 360" width="100%" />
+<img src="assets/electricaltool.svg" alt="KiCad, Proteus, SolidWorks, Fusion Electrical, Fusion 360" width="100%" />
 
 **Programming**
 
